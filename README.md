@@ -198,7 +198,6 @@ Advanced React patterns
 📚 Learning Sources
 Angela Yu – The Complete Web Development Bootcamp
 
-MDN Web Docs
 
 Official documentation of tools & frameworks
 
